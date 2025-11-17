@@ -5,7 +5,7 @@ Public StoreCount As String
 Public Function Store_Instruction(id As Integer, INST As String) As String
   On Error GoTo ErrorHandler
   API.BeginOpt "Undo MRC"
-  '// Ñ¡ÔñÖ¸ÁîÖ´ÐÐ
+  '// 选择指令执行
   Case_Select_Range id, INST
   
   StoreCount = "Store Count: A->" & sr_mem(1).Count & "  B->" & sr_mem(2).Count & "  C->" & sr_mem(3).Count

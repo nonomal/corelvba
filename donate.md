@@ -1,5 +1,9 @@
-![image](https://github.com/user-attachments/assets/eab2ed74-1d68-4328-b153-41808f825792)# 捐赠网友将送商业版注册激活码一份
+![image](https://github.com/user-attachments/assets/eab2ed74-1d68-4328-b153-41808f825792)
+
+# 捐赠网友将送商业版注册激活码一份
+
 ![](https://lyvba.com/wp-content/uploads/2023/12/vlog_lanya.jpg)
+
 ### 2022.12.13 庆祝蘭雅CorelVBA工具捐赠和收益总额达到3000元
 ### 2023.12.29 庆祝蘭雅CorelVBA工具捐赠和收益总额达到5000元
 ### 2024.06.15 蘭雅 CorelDRAW CPG 开源项目发布
@@ -7,6 +11,7 @@
 ### AI画质增强GUI启动器项目开启，小白也能方便使用工具
 ### 2024.10.24 文稿一键美白App By 蘭雅  捞鱼吧 bbs.lyvba.com 免费下载
 ### 2024.2.21 意外发现海外朋友 tubbiya 的捐赠 30刀，过完春节换了一个工作，白天没有写代码时间了
+
 ## 捐赠
 感谢您使用 "蘭雅CorelVBA工具" 和 蘭雅 CorelDRAW CPG 工具
 
@@ -31,7 +36,7 @@
 Thanh Van    友佳友汇    创忆电脑    李凯    晋畅迷你字    cdr插件鼠标哥    w啊啊    上善若水    
 肇庆博洋文化传媒   hi   夏夜里的荷花与星星  无风   风雅广告  告别原来的自己  vunuiop  天坐UV雕刻
 重庆金广禾广告  起个破名也忒费劲了  喜鹊zai树梢  立刻行动的汤姆猫  若梦华兴  三人行  贝诺广告传媒
-tubbiya  Popper  A-Ming
+tubbiya  Popper  A-Ming  干饭广告王  愛與痛彼此糾結
 ```
 ### 会员群福利: 
 ```
